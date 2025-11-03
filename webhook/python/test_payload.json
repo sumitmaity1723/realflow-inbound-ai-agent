@@ -1,1 +1,12 @@
+{
+  "assistant": "Realflow for Acme Brokerage",
+  "caller_name": "Priya Singh",
+  "caller_role": "Owner",
+  "asset_description": "Warehouse property in Noida",
+  "asset_location": "Noida, India",
+  "urgency": "Immediate",
+  "phone": "+91-9876543210",
+  "email": "priya@example.com",
+  "transcript_summary": "Owner Priya, warehouse in Noida, urgent sale."
+}
 
