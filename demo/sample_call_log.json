@@ -1,1 +1,13 @@
+{
+  "received_at": "2025-11-03T14:10:22Z",
+  "assistant": "Realflow for Acme Brokerage",
+  "caller_name": "Amit Mehta",
+  "caller_role": "Broker",
+  "asset_description": "Commercial plot in Pune, 3 acres",
+  "asset_location": "Hinjewadi, Pune",
+  "urgency": "3 months",
+  "phone": "+91-9876543200",
+  "email": "amit@example.com",
+  "transcript_summary": "Broker Amit called about a 3-acre commercial plot in Pune, seeking sale in 3 months."
+}
 
